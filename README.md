@@ -69,8 +69,7 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raj-Singh08&show_icons=true&theme=tokyonight" alt="Raj's GitHub stats" />
-  <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Raj-Singh08&theme=tokyonight" alt="Raj's GitHub streak" />
   
 </p>
