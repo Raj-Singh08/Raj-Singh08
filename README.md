@@ -72,7 +72,7 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Raj-Singh08&theme=tokyonight" alt="Raj's GitHub streak" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raj-Singh08&hide_current_streak=true&hide_longest_streak=true" alt="Raj's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raj-Singh08&hide_current_streak=true&hide_longest_streak=true&theme=tokyonight" alt="Raj's GitHub streak" />
   
 </p>
 
